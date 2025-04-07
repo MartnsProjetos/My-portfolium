@@ -31,4 +31,4 @@ The repository includes:
 
 ## View the Project
 
-[https://github.com/MartnsProjetos/My-portfolium](https://github.com/MartnsProjetos/My-portfolium)
+[https://martinsdevportfolium.netlify.app/)
